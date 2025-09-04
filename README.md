@@ -1,4 +1,4 @@
-<img src="IMG_6065" alt="Madalina Banner" width="100%"/>
+<img src="IMG_6065.jepg" alt="Madalina Banner" width="100%"/>
 
 I’m a software analyst and developer passionate about building creative and impactful technology. I’ve worked on multiple projects that have given me a broad understanding technology, making me love to blend research with hands-on development.
 
