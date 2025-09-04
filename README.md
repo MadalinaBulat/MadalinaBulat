@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="image.PNG" alt="Madalina Banner" width="30%"/>
+  <img src="image.PNG" alt="Madalina Avatar" width="200" style="border-radius:50%; border: 4px solid #FFB6C1;"/>
 </p>
 
+# Hi, I'm Madalina 🌸✨
 
 I’m a software analyst and developer passionate about building creative and impactful technology. I’ve worked on multiple projects that have given me a broad understanding technology, making me love to blend research with hands-on development.
 
