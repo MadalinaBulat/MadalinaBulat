@@ -1,4 +1,3 @@
-# Hi, I'm Madalina 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Madalina%20Bulat&fontSize=40&fontColor=fff&animation=fadeIn" />
 </p>
