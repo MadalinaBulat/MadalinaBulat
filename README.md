@@ -45,7 +45,7 @@ I’m a Software Analyst and Developer with a passion for creating technology th
 ### ✨ Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/madalina-bulat/">
+  <a href="https://www.linkedin.com/in/madalina-bulat-92a046115/)">
     <img src="https://img.shields.io/badge/-LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/YourGitHubUsername">
