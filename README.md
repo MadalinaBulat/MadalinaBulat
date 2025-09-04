@@ -6,20 +6,53 @@
   <img src="image.PNG" alt="Madalina Avatar" width="200" style="border-radius: 50%; border: 4px solid #FFB6C1;"/>
 </p>
 
-<!-- Quick badges -->
+I’m a Software Analyst and Developer with a passion for creating technology that’s both innovative and impactful. Through my work on diverse projects, I’ve built a broad technical foundation and discovered a love for blending research-driven insights with hands-on development.
+
+---
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-C%23%20%7C%20Azure%20%7C%20AI-ff9ecb?style=for-the-badge">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge&color=ff69b4" alt="profile views"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" hspace="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" hspace="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" hspace="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" hspace="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" hspace="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" hspace="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" hspace="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" hspace="20"/>
+</p>
+
+---
+
+
+### 💡 What Drives Me
+✨ Simplicity – clean, human-centered code  
+🌸 Creativity – blending research + development  
+⚡ Impact – building tech that matters  
+🚀 Growth – always learning, always improving  
+
+
+---
+
+
+<p align="center" style="background:#ffe6f1; padding:20px; border-radius:15px; border:1px solid #f8cce0; max-width:600px; margin:auto;">
+  <em style="color:#444; font-size:18px;">
+    “Good code is short, simple, and symmetrical – the challenge is figuring out how to get there.”
+  </em>
+</p>
+
+---
+
+### ✨ Let’s Connect
+
+<p align="center">
   <a href="https://www.linkedin.com/in/madalina-bulat/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-ff5fa2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YourGitHubUsername">
+    <img src="https://img.shields.io/badge/-GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 
-I’m a software analyst and developer passionate about building creative and impactful technology. I’ve worked on multiple projects that have given me a broad understanding technology, making me love to blend research with hands-on development.
 
-### 🌎 Find me around the web:
 
-- 💼 Sharing updates on [LinkedIn](https://www.linkedin.com/in/madalina-bulat-92a046115/)
-- 📝 Writing & documenting projects here on GitHub  
-- 🎨 Exploring creativity through side projects 
